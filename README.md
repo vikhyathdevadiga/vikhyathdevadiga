@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Vikhyath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub vikhyathdevadiga](https://img.shields.io/github/followers/vikhyathdevadiga?label=follow&style=social)](https://github.com/vikhyathdevadiga)
+[![Linkedin: Vikhyath S](https://img.shields.io/badge/-Vikhyath%20S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vikhyathdevadiga/)](www.linkedin.com/in/vikhyathdevadiga)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyathdevadiga&layout=compact&theme=calm)](https://github.com/vikhyathdevadiga/github-readme-stats)
 
 <!--
 **vikhyathdevadiga/vikhyathdevadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
